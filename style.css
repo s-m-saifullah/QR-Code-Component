@@ -20,6 +20,10 @@ img {
   margin: 0 auto;
 }
 
+.card-container {
+  min-height: 100%;
+}
+
 .d-flex {
   display: flex;
   justify-content: center;
